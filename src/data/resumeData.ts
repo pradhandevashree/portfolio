@@ -89,9 +89,9 @@ export const resumeData = {
     }
   ],
   certifications: [
-    "HUCAMA Factors Practitioner",
-    "CIPD Level 3",
-    "CIPD Level 5"
+    "Licensed HUCAMA Factors Practitioner",
+    "CIPD Level 3 (Udemy)",
+    "CIPD Level 5 (Udemy)"
   ],
   achievements: [
     {
