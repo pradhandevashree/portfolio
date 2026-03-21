@@ -2,67 +2,34 @@ export const resumeData = {
   basics: {
     name: "Devashree Pradhan",
     initials: "DP",
-    title: "Business Consultant",
-    summary: "I am an MSc Occupational and Organisational Psychology graduate with a strong interest in people consulting, workforce wellbeing, and evidence-based HR practice. My academic and professional experience sits at the intersection of psychology, data, and business problem-solving, with a particular focus on regulated and customer-facing environments.",
-    fullSummary: "I am an MSc Occupational and Organisational Psychology graduate with a strong interest in people consulting, workforce wellbeing, and evidence-based HR practice. My academic and professional experience sits at the intersection of psychology, data, and business problem-solving, with a particular focus on regulated and customer-facing environments. I have hands-on experience supporting client-facing HR initiatives, including recruitment, employee engagement, and HR process improvement, gained through internships in consulting and fast-paced organisations. Alongside this, I currently work in a regulated gambling environment, where I lead frontline teams, manage complex customer interactions, and actively promote employee wellbeing. This exposure has strengthened my ability to navigate high-pressure situations, stakeholder expectations, and people-related risk. My MSc research focused on analysing how customer aggression impacts job satisfaction among employees in the UK gambling sector. Through this work, I developed strong quantitative research and people analytics skills, applying statistical techniques to translate workforce data into practical, actionable insights that support wellbeing, retention, and frontline sustainability. I am particularly interested in roles that involve diagnosing people-related challenges, using data and psychological insight to inform decision-making, and supporting organisations in building healthier, more effective workplaces. I am currently seeking opportunities in HR Consulting, People Consulting, People Analytics, or Workforce Wellbeing roles.",
+    title: "HR Assistant | CIPD Level 5 (Udemy) | Onboarding · HRIS · People Analytics | Org Psychology Background",
+    summary: "Most HR teams don't struggle with finding people- they struggle with keeping everything that surrounds them running cleanly. That's where I come in. I'm an HR professional with a background in occupational psychology, which means I don't just process HR admin- I understand why people and processes break down, and how to fix them.",
+    fullSummary: "Most HR teams don't struggle with finding people- they struggle with keeping everything that surrounds them running cleanly. That's where I come in. I'm an HR professional with a background in occupational psychology, which means I don't just process HR admin- I understand why people and processes break down, and how to fix them. I've supported end-to-end HR operations across consulting and fast-paced environments, from preparing contracts and managing pre-employment checks to maintaining HRIS records, supporting payroll, and keeping onboarding and offboarding running without gaps. At Blackmont Consulting, I managed pre-employment checks for 500+ candidates, prepared offer letters and employment contracts for client organisations, and kept employee data accurate and audit-ready across HRIS systems. At Lernx, I handled the full range of HR administration- recruitment coordination, absence logging, payroll support, and compliance tracking- while also translating workforce data into structured recommendations that actually informed decisions. What makes me a little different is that I bring analytical thinking into HR operations. My MSc research used quantitative methods to study how workplace conditions affect employee wellbeing, so I'm comfortable working with data, spotting patterns, and turning findings into something useful. I'm CIPD Level 5 qualified (Udemy), experienced with Workday, and known for accuracy, confidentiality, and getting things done without needing to be chased. I'm currently looking for an HR Assistant or People Operations role where I can contribute from day one and keep growing. If you're hiring or want to connect, reach me at pradhandevashree@gmail.com or send me a DM.",
     location: "Newcastle Upon Tyne, England, United Kingdom",
     email: "pradhandevashree@gmail.com",
-    linkedin: "https://www.linkedin.com/in/devashree-pradhan-b93905278",
+    linkedin: "https://www.linkedin.com/in/devashreepradhan-b93905278",
     interests: [
-      "HR & Recruitment Consulting",
-      "Workforce Wellbeing & Employee Experience",
-      "People Analytics & Quantitative Research",
-      "Stakeholder & Client Engagement",
-      "Evidence-Based HR & Organisational Psychology"
+      "HRIS Management",
+      "Onboarding & Offboarding",
+      "People Analytics",
+      "Compliance & Confidentiality",
+      "Occupational Psychology"
     ]
   },
   experience: [
     {
       company: "Blackmont Consulting",
       role: "Business Consultant Intern",
-      dates: "Nov 2025 - Present",
+      dates: "Nov 2025 - Mar 2026",
       duration: "5 months",
       location: "London",
-      impact: "Recruitment Solutions & HR Operations",
+      impact: "Pre-employment Checks & HRIS Management",
       bullets: [
-        "Assisted HR consultants in delivering client-focused recruitment solutions by analysing role requirements, evaluating candidate suitability, and supporting end-to-end hiring workflows.",
-        "Supported client HR operations by reviewing, organising, and maintaining employee data, ensuring accuracy, confidentiality, and compliance with organisational and regulatory standards.",
-        "Collaborated on people-focused initiatives such as training and engagement programmes by identifying client needs and supporting the implementation of practical HR interventions.",
-        "Supported a client-focused project aimed at business improvement, assisting consultants in reviewing people and process challenges and contributing to insight development to support improved operational effectiveness."
-      ]
-    },
-    {
-      company: "Entain",
-      role: "Retail Customer Service Manager",
-      dates: "Dec 2024 - Present",
-      duration: "1 year 4 months",
-      location: "Newcastle Upon Tyne",
-      impact: "Frontline Leadership & Wellbeing",
-      bullets: [
-        "Lead frontline teams and manage complex customer interactions in a regulated gambling environment.",
-        "Actively promote employee wellbeing and navigate high-pressure situations and stakeholder expectations."
-      ]
-    },
-    {
-      company: "Northumbria University",
-      role: "Student Programme Rep",
-      dates: "Sep 2024 - Sep 2025",
-      duration: "1 year 1 month",
-      location: "Newcastle Upon Tyne",
-      impact: "Academic Representation",
-      bullets: [
-        "Student rep at Northumbria University for MSc Occupational and Organisational Psychology course."
-      ]
-    },
-    {
-      company: "Northumbria University",
-      role: "Events Rep",
-      dates: "Oct 2024 - Feb 2025",
-      duration: "5 months",
-      location: "Newcastle Upon Tyne",
-      impact: "University Representation",
-      bullets: [
-        "Events Rep recruited by Blue Arrow representing the university and course of study at university level."
+        "Managed pre-employment checks (background, conflict, medical) for 500+ candidates using Workday, achieving 100% completion before start dates with zero compliance breaches.",
+        "Prepared offer letters and employment contracts for 12+ client organisations, coordinating new hire onboarding schedules and distributing day-one notifications to all stakeholders.",
+        "Maintained and audited employee records across client HRIS systems, ensuring data accuracy and regulatory compliance for a workforce of 500+ employees.",
+        "Supported end-to-end recruitment workflows for 3+ concurrent client accounts, evaluating candidate suitability and reducing time-to-shortlist by streamlining screening processes.",
+        "Contributed to a people and process improvement project, identifying operational gaps and delivering structured recommendations that supported measurable improvements in HR effectiveness."
       ]
     },
     {
@@ -71,12 +38,13 @@ export const resumeData = {
       dates: "May 2023 - Sep 2024",
       duration: "1 year 5 months",
       location: "Mumbai",
-      impact: "People Analytics & Consulting",
+      impact: "People Analytics & HR Administration",
       bullets: [
-        "Delivered project-based people consulting support, focusing on workforce wellbeing, employee engagement, and recruitment effectiveness.",
-        "Analysed employee survey and workforce datasets using Excel to identify engagement risks, burnout indicators, and retention challenges.",
-        "Supported consulting-style problem diagnosis turning quantitative findings into structured, evidence-based recommendations aligned with organisational objectives.",
-        "Prepared concise insight summaries and client-ready documentation, developing core consulting delivery, analytical thinking, and stakeholder communication skills."
+        "Analysed employee survey data across 5+ client datasets using Excel (VLOOKUPs, pivot tables), identifying burnout and retention risks that informed evidence-based HR interventions.",
+        "Logged and audited sickness absence and leave of absence records in HR systems for 100+ employees, flagging anomalies and ensuring accuracy ahead of reporting cycles.",
+        "Coordinated recruitment administration across 20+ open roles, managing interview scheduling, feedback chasing, TBNT emails, and CV filing in line with compliance standards.",
+        "Supported monthly payroll processing by generating reports and maintaining records, ensuring zero payroll errors across 3 consecutive pay cycles.",
+        "Drafted reference letters, maintained HR templates, and took minutes across weekly HR meetings, reducing document turnaround time by standardising templates across the team."
       ]
     },
     {
@@ -85,57 +53,39 @@ export const resumeData = {
       dates: "Feb 2023 - May 2023",
       duration: "4 months",
       location: "India",
-      impact: "HR Support",
+      impact: "Recruitment & Onboarding Support",
       bullets: [
-        "Supported Human Resources functions during a 4-month internship."
-      ]
-    },
-    {
-      company: "MyCaptain",
-      role: "Psychology Intern",
-      dates: "Jul 2021 - Aug 2021",
-      duration: "2 months",
-      location: "India",
-      impact: "Psychological Insight",
-      bullets: [
-        "Gained foundational experience in psychology during a 2-month internship."
+        "Coordinated recruitment administration for 25+ open positions, managing candidate correspondence, scheduling interviews, and maintaining electronic filing systems with full compliance.",
+        "Supported onboarding for 30+ new hires, uploading documentation, filing contracts, and ensuring all records met organisational record-keeping standards before day one.",
+        "Received a Certificate of Appreciation for accuracy and contribution to team HR operations within a 4-month internship period."
       ]
     }
   ],
   skills: {
-    top: ["Project Management", "Psych", "Data Analysis"],
+    top: ["Organisational Psychology", "Confidentiality and Compliance", "CIPD Level 5"],
     technical: [
-      "HR & Recruitment Consulting",
-      "Workforce Wellbeing & Employee Experience",
+      "HRIS Management (Workday)",
+      "Pre-employment Checks",
+      "Onboarding & Offboarding",
+      "Payroll Support",
+      "Compliance Tracking",
       "People Analytics",
-      "Quantitative Research",
-      "Stakeholder Engagement",
-      "Evidence-Based HR",
-      "Organisational Psychology"
+      "Excel (VLOOKUPs, Pivot Tables)",
+      "Recruitment Coordination",
+      "Contract Preparation",
+      "Employee Records Management",
+      "Quantitative Research Methods"
     ],
     languages: [
-      { name: "Gujarati", level: "Limited Working" },
-      { name: "English", level: "Full Professional" },
-      { name: "Hindi", level: "Professional Working" },
-      { name: "Marathi", level: "Native or Bilingual" }
+      { name: "English", level: "Full Professional" }
     ]
   },
   education: [
     {
       institution: "Northumbria University",
       degree: "MSc Occupational and Organisational Psychology",
-      dates: "Sep 2024 - Sep 2025"
-    },
-    {
-      institution: "Modern Education Society's Nowrosjee Wadia College",
-      degree: "Bachelor of Arts - BA, Psychology",
-      dates: "2021 - 2024",
-      location: "Pune 01"
-    },
-    {
-      institution: "Sophia College (Autonomous)",
-      degree: "12th, Arts",
-      dates: "2019 - 2021"
+      dates: "Sep 2024 - Sep 2025",
+      details: "Research focused on how workplace conditions affect employee wellbeing using quantitative methods"
     }
   ],
   certifications: [
@@ -145,19 +95,49 @@ export const resumeData = {
   ],
   achievements: [
     {
-      title: "MSc Research Lead",
-      metric: "UK Gambling Sector",
-      context: "Analysed how customer aggression impacts job satisfaction, translating workforce data into actionable insights for wellbeing and retention."
+      title: "Zero Compliance Breaches",
+      metric: "500+ candidates",
+      context: "Managed pre-employment checks achieving 100% completion before start dates with zero compliance issues"
     },
     {
-      title: "Quantitative Research",
-      metric: "Statistical Techniques",
-      context: "Applied advanced statistical techniques to translate workforce data into practical insights."
+      title: "Multi-Client HRIS Management",
+      metric: "500+ employees",
+      context: "Maintained and audited employee records across client HRIS systems with full regulatory compliance"
     },
     {
-      title: "Stakeholder Management",
-      metric: "High-Pressure",
-      context: "Strengthened ability to navigate high-pressure situations and stakeholder expectations in regulated environments."
+      title: "Perfect Payroll Accuracy",
+      metric: "Zero errors",
+      context: "Supported monthly payroll processing ensuring zero errors across 3 consecutive pay cycles"
+    },
+    {
+      title: "Client Organisations Supported",
+      metric: "12+",
+      context: "Prepared offer letters and employment contracts coordinating new hire onboarding schedules"
+    },
+    {
+      title: "Data Analytics",
+      metric: "5+ datasets",
+      context: "Analysed employee survey data identifying burnout and retention risks for evidence-based HR interventions"
+    },
+    {
+      title: "Recruitment Coordination",
+      metric: "20+ roles",
+      context: "Coordinated recruitment administration managing interview scheduling and compliance standards"
+    },
+    {
+      title: "Employee Records Management",
+      metric: "100+ employees",
+      context: "Logged and audited sickness absence and leave records ensuring accuracy ahead of reporting cycles"
+    },
+    {
+      title: "New Hire Onboarding",
+      metric: "30+ hires",
+      context: "Supported onboarding ensuring all records met organisational standards before day one"
+    },
+    {
+      title: "Certificate of Appreciation",
+      metric: "Awarded",
+      context: "Received recognition for accuracy and contribution to team HR operations within 4-month internship"
     }
   ]
 };
