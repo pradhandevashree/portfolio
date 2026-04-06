@@ -7,7 +7,7 @@ export const resumeData = {
     fullSummary: "Most HR teams don't struggle with finding people- they struggle with keeping everything that surrounds them running cleanly. That's where I come in. I'm an HR professional with a background in occupational psychology, which means I don't just process HR admin- I understand why people and processes break down, and how to fix them. I've supported end-to-end HR operations across consulting and fast-paced environments, from preparing contracts and managing pre-employment checks to maintaining HRIS records, supporting payroll, and keeping onboarding and offboarding running without gaps. At Blackmont Consulting, I managed pre-employment checks for 500+ candidates, prepared offer letters and employment contracts for client organisations, and kept employee data accurate and audit-ready across HRIS systems. At Lernx, I handled the full range of HR administration- recruitment coordination, absence logging, payroll support, and compliance tracking- while also translating workforce data into structured recommendations that actually informed decisions. What makes me a little different is that I bring analytical thinking into HR operations. My MSc research used quantitative methods to study how workplace conditions affect employee wellbeing, so I'm comfortable working with data, spotting patterns, and turning findings into something useful. I'm CIPD Level 5 qualified (Udemy), experienced with Workday, and known for accuracy, confidentiality, and getting things done without needing to be chased. I'm currently looking for an HR Assistant or People Operations role where I can contribute from day one and keep growing. If you're hiring or want to connect, reach me at pradhandevashree@gmail.com or send me a DM.",
     location: "Newcastle Upon Tyne, England, United Kingdom",
     email: "pradhandevashree@gmail.com",
-    linkedin: "https://www.linkedin.com/in/devashreepradhan-b93905278",
+    linkedin: "https://www.linkedin.com/in/devashree-pradhan-b93905278/",
     interests: [
       "HRIS Management",
       "Onboarding & Offboarding",
@@ -19,7 +19,7 @@ export const resumeData = {
   experience: [
     {
       company: "Blackmont Consulting",
-      role: "Business Consultant Intern",
+      role: "Human Resources",
       dates: "Nov 2025 - Mar 2026",
       duration: "5 months",
       location: "London",
@@ -34,9 +34,9 @@ export const resumeData = {
     },
     {
       company: "Lernx",
-      role: "Junior People Consultant",
-      dates: "May 2023 - Sep 2024",
-      duration: "1 year 5 months",
+      role: "Human Resources",
+      dates: "May 2023 - Oct 2025",
+      duration: "2 years 6 months",
       location: "Mumbai",
       impact: "People Analytics & HR Administration",
       bullets: [
@@ -50,8 +50,8 @@ export const resumeData = {
     {
       company: "Lernx India",
       role: "Human Resources Intern",
-      dates: "Feb 2023 - May 2023",
-      duration: "4 months",
+      dates: "Feb 2022 - May 2023",
+      duration: "1 year 4 months",
       location: "India",
       impact: "Recruitment & Onboarding Support",
       bullets: [
